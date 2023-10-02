@@ -1,0 +1,81 @@
+ <div style="margin-top: 10px;">
+
+            <p>HTML2</p>
+
+            <table > 
+                <tr>
+                    <style>
+                        table, th, td{
+                            border: 1px solid black;
+                        }
+                    </style>
+                    
+                     <th h1 style="background-color:hsl(329, 68%, 62%);color:antiquewhite"> </h1>Education </th>
+                    <th h1 style="background-color:hsl(329, 68%, 62%);color:antiquewhite"> </h1> Experience </th>
+                    <th h1 style="background-color:hsl(329, 68%, 62%);color:antiquewhite"></h1> Skills </th>
+                </tr>    
+        
+                <tr>
+                    <td>Stella </td>
+                     <td>Frias</td>
+                     <td>Architecture</td>  
+        
+                </tr>
+
+                <tr>
+                    <td>Stella </td>
+                     <td>Frias</td>
+                     <td>Architecture</td>  
+        
+                </tr>
+        </table>
+
+        </div>
+
+        <div style="margin-top: 100px;">
+            <form>
+                <label for="uname">Username:</label>
+                        <input type="text" id="uname" name="uname">
+                        <label for="fname">First Name:</label>
+                        <input type="text" id="fname" name="fname">
+                        <label for="lname">Last Name:</label>
+                        <input type="text" id="lname" name="lname">
+                        <label for="email">Email:</label>
+                        <input type="text" id="email" name="email">
+                        <br>
+                    <div style="margin-top: 50px;">
+                        <label for="Math">Math:</label>
+                        <input type="checkbox" id="Math" name="Math"><br>
+                        <label for="Architecture">Architecture:</label>
+                        <input type="checkbox" id="Architecture" name="Architecture"><br>
+                        <label for="ComputerScience">Computer Science:</label>
+                        <input type="checkbox" id="ComputerScience" name="Computer Science"><br>
+                        <br>
+                    </div>
+                        <label for="Math">Math:</label>
+                        <input type="radio" id="Math" name="Math"><br>
+                        <label for="Architecture">Architecture:</label>
+                        <input type="radio" id="Architecture" name="Architecture"><br>
+                        <label for="ComputerScience">Computer Science:</label>
+                        <label for="ComputerScience">Computer Science:</label>
+                        <input type="radio" id="ComputerScience" name="Computer Science"><br>
+                        <input type="submit" name="Submit" id="Submit">
+            </form>
+        </div>
+
+        <div style="margin-top: 100px;">
+           <p> Classes - Fall Semester</p>
+
+            <ul> <li> CS104</li></ul>
+            <ul> <li> ARCH110</li></ul>
+            <ul> <li> ARCH195</li></ul>
+            <ul> <li> ENGL101</li></ul>
+            <ul> <li> MATH107</li></ul>
+            <ul> <li> FYS Seminar</li></ul>
+
+
+
+
+
+
+        </div>
