@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<head>
+    <title>
+        Personal Portfolio
+    </title>
+</head>
+<body>
+    <h1 style="color:blue; background-color: black;">
+    Brianna Kailas
+</h1>
+<h3 style="color: blueviolet;background-color: bisque;">
+NJIT, bk394, B.Arch 
+</h3>
+<div>
+    <p style="color: brown;">
+    Brianna Kailas is an architect.  She dabbled in the biomedical enginnering field in high school, but quickly learned that was not right for her.  She is more than happy that she choose architecture as her major.  She loves to design and create.
+</p>
+</div>
+<div>
+    <table style="width: 50%;">
+        <style>
+            table, th, td{border:1px solid black}
+        </style>
+        <tr>
+            <th> Education</th>
+            <th>Experience</th>
+            <th>Skills</th>
+        </tr>
+        <tr>
+            <td>Mathmatics</td>
+            <td>Volleyball Coach</td>
+            <td>Painting</td>
+        </tr>
+        <tr>
+            <td>Music</td>
+            <td>Studio</td>
+            <td>RhinoProgam</td>
+        </tr>
+    </table>
+</div>
+<br><br>
+<div>
+    <form>
+       <label for="Username">Username</label>
+       <input type="text" placeholder="Username"><br><br>
+       
+       <Label for="First Name"> First Name</Label>
+            <input type="text" placeholder="First Name"><br><br>
+           
+            <Label for="Last Name"> Last Name</Label>
+            <input type="text" placeholder="Last Name"><br><br>
+            
+            <Label for="Email"> Email</Label>
+            <input type="email" placeholder="Email"><br><br>
+            
+            <input type="checkbox"> Math <br><br>
+           
+            <input type="checkbox"> Architecture <br><br>
+           
+            <input type="checkbox"> Computer Science <br><br>
+           
+            <input type="radio" name="course"> Math
+            <input type="radio" name="course"> Architecture
+            <input type="radio" name="course"> Computer Science<br><br>
+            <input type="submit"<br><br> 
+    </form>
+    <br><br>
+</div>
+<h3>Courses</h3><br>
+<div>
+    <ul><li>ARCH110</li></ul>
+    <ul><li>ARCH195</li></ul>
+    <ul><li>CS104005</li></ul>
+    <ul><li>ENGL101079</li></ul>
+    <ul><li>FYSSEMA05</li></ul>
+    <ul><li>MATH107013</li></ul>
+</div>
+<br><br>
+<a href="https://www.njit.edu/">
+    NJIT
+</a>
+</body>
