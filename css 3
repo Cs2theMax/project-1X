@@ -1,0 +1,45 @@
+
+  
+.head {
+    background-color:lightgray;
+}
+
+#style {
+    width: 50%;
+    border: 2px solid black;
+    margin: 100px;
+
+}
+
+#table, th, td {
+    padding:10px;
+    border: 2px solid black;
+
+}
+
+.img1 {
+
+    margin-right: 50px; 
+    width: 20%;
+    height: 2in;
+    border: 5px dashed red;
+    padding: 30px;
+}
+.img2 {
+
+    margin-right: 50px; 
+    width: 20%;
+    height: 110pt;
+    border: 5px dashed red;
+    padding: 30px;
+}
+
+.img3 {
+
+    margin-right: 50px; 
+    width: 150px;
+    height: 150px;
+    border: 5px dashed red;
+    padding: 30px;
+}
+
