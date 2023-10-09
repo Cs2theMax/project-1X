@@ -1,0 +1,41 @@
+  <div style="margin-top: 10px;">
+
+            <link rel="stylesheet" href="anything.css">
+
+            <p>HTML2</p>
+
+            <table id="style">
+                <tr>
+                    
+                    <tr class="head">
+                    
+                     <th> Education </th>
+                    <th> Experience </th>
+                    <th> Skills </th>
+                   
+                </tr>    
+                
+        
+                <tr>
+                    <td>Stella </td>
+                     <td>Frias</td>
+                     <td>Architecture</td>  
+        
+                </tr>
+
+                <tr>
+                    <td>Stella </td>
+                     <td>Frias</td>
+                     <td>Architecture</td>  
+        
+                </tr>
+        </table>
+
+        <div style="margin-top: 100px;">
+
+            <img class= "img1" src= https://davidbader.net/post/20191119-njit/featured.png> 
+            <img  class="img2" src= https://news.njit.edu/sites/news/files/eberhardt_HDR.jpg>
+            <img class="img3" src= https://njithighlanders.com/images/2020/4/2/NSAD.jpg>
+        </div>
+
+        </div>
