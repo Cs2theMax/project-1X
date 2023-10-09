@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<head>
+    <title>
+        Personal Portfolio
+    </title>
+    <link rel="stylesheet" href="Style2.css">
+</head>
+<body>
+    <h1 style="color: aquamarine; background-color: darkkhaki;">
+        Maximiliano Escudero
+    </h1>
+    <h3 style="color: brown; background-color: grey;">
+        NJIT, me396, B.Arch
+    </h3>
+    <div>
+        <p style="color: coral;">
+            Maximiliano Escudero is a future architect in the making. As of now the aspects of Architectural design are what he is leaning towards. Originally he was set on becoming an engineer, but as high school unfolded he became more focused on the idea of incorporating art into his profession. He explored art and its mediums of expression through classes such as art 2D and 3D, graphic design, and art major studio. Also broadening his understanding of mathematics and science through calculus, physics, and computer science. Maximiliano has always found math to be straightforward and art to be interesting.The colliding of the two subjects, along with guidance from friends and counselors started him down the path of architecture.
+        </p>
+    </div>
+    <div id="table, th, td, tr">
+        <table id="style">
+            <style>
+                
+            </style>
+            
+           
+             <tr class="th1">
+                 <th><h4>Education</h4></th>
+                <th><h4>Experience</h4></th>
+                 <th><h4>Skills</h4></th>
+            </tr>
+
+           
+            <tr>
+                <td >Physics</td>
+                <td>Baby-sitting</td>
+                <td>Drawing</td>
+            </tr>
+            <tr>
+                <td>Studio</td>
+                <td>Art</td>
+                <td>Rhino</td>
+            </tr>
+        </table>
+    </div>
+<br><br>
+    <div>
+        <form>
+            <Label for="Username"> Username</Label>
+            <input type="text" placeholder="Username"><br><br>
+            
+            <Label for="First Name"> First Name</Label>
+            <input type="text" placeholder="First Name"><br><br>
+           
+            <Label for="Last Name"> Last Name</Label>
+            <input type="text" placeholder="Last Name"><br><br>
+            
+            <Label for="Email"> Email</Label>
+            <input type="email" placeholder="Email"><br><br>
+            
+            
+            <input type="checkbox"> Math <br><br>
+           
+            <input type="checkbox"> Architecture <br><br>
+           
+            <input type="checkbox"> Computer Science <br><br>
+           
+            <input type="radio" name="course"> Math
+            <input type="radio" name="course"> Architecture
+            <input type="radio" name="course"> Computer Science<br><br>
+            <input type="submit"<br><br>
+        </form>
+        <br><br>
+    </div>
+    <h3>Courses</h3><br>
+    <div>
+        <ul><li>ARCH110</li></ul>
+        <ul><li>ARCH195</li></ul>
+        <ul><li>CS104005</li></ul>
+        <ul><li>ENGL101079</li></ul>
+        <ul><li>FYSSEMA05</li></ul>
+        <ul><li>MATH107013</li></ul>
+    </div>
+    <BR><BR>
+    <a href="https://www.njit.edu/">
+        NJIT
+    </a>
+    <div>
+        <img class="image1"src="https://i.pinimg.com/originals/92/41/7c/92417c9d9e75ed2a3e03062f63682aea.jpg">
+        <img class="image2"src="https://i.pinimg.com/originals/92/41/7c/92417c9d9e75ed2a3e03062f63682aea.jpg">
+        <img class="image3"src="https://i.pinimg.com/originals/92/41/7c/92417c9d9e75ed2a3e03062f63682aea.jpg">
+    </div>
+    <br>
+    <img  src="https://i.pinimg.com/originals/92/41/7c/92417c9d9e75ed2a3e03062f63682aea.jpg">
+    <br><br>
+   
+    
+
+</body>
