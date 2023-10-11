@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="code.css"></head>
+  <h1 style="background-color:rgb(106, 200, 238); color:rgb(62, 209, 74);">Miriam Estefan</h1>
+  <h2 style="background-color:rgb(255, 99, 71); color:rgb(224, 214, 128);">NJIT, mye5, Interior Design</h2>
+  <p style="color:white (241, 124, 159);">My name is Miriam Estefan. I am a second year at NJIT. My freshman year I was majoring in Biomedical Engineering, however I did not enjoy it and switched my major to Interior Design. Some things I enjoy doing is traveling to new countries and photography.</p>
+  <a>https://www.njit.edu/</a>
+  <img src="https://hips.hearstapps.com/hmg-prod/images/the-town-of-varenna-on-lake-como-royalty-free-image-1690925689.jpg" alt="Lake Como" width="400" height="300">  
+<div>
+  <style>
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 100x;
+      margin-right: 100x;
+      margin-bottom: 100x;
+      margin-left: 100x;
+    }
+    
+    td, th {
+      border: 2px solid #0f0e0e;
+      text-align: left;
+      padding: 10px;
+    }
+    </style>
+    </head>
+    <body>
+    <h2 style="background-color: lightgrey;">Table 1</h2>
+    <table>
+      <tr>
+        <th>Colors</th>
+        <th>Numbers</th>
+        <th>Months</th>
+      </tr>
+      <tr>
+        <td>Pink</td>
+        <td>5</td>
+        <td>October</td>
+      </tr>
+      <tr>
+        <td>Blue</td>
+        <td>25</td>
+        <td>August</td>
+      </tr>
+      <tr>
+        <td>Red</td>
+        <td>14</td>
+        <td>February</td>
+      </tr>
+      <tr>
+    </table>
+    
+</div>
+<div>
+    <form>
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname" value="Miriam"><br>
+        <label for="lname">Last name:</label><br>
+        <input type="text" id="lname" name="lname" value="Estefan">
+        <label for="email">Email:</label><br>
+        <input type="text" id="email" name="Email" value="mye5@njit.edu"><br>
+    </form>
+    <h1>Choose your Favorite Subject</h1>
+
+<form action="/action_page.php">
+  <input type="checkbox" id="subject1" name="subject1" value="Math">
+  <label for="subject1"> Math</label><br>
+  <input type="checkbox" id="subject2" name="subject2" value="Architecture">
+  <label for="subject2"> Architecture</label><br>
+  <input type="checkbox" id="subject3" name="subject3" value="Computer Science">
+  <label for="subject 3"> Computer Science</label><br><br>
+</form>
+    <form>
+        <h3>Favorite Subject</h3>
+        <p>Select Which One of the Following in Which You Enjoy the Most:</p>
+         <input type="radio" id="Architecture" name="fav_subject" value="Architecture">
+          <label for="architecture">Architecture</label><br>
+          <input type="radio" id="Math" name="fav_subject" value="Math">
+          <label for="Math">Math</label><br>
+          <input type="radio" id="Computer Science" name="fav_subject" value="Computer Science">
+          <label for="Computer Science">Computer Science</label>
+        <input type="submit" value="Submit">
+      </form>
+</div>
+<div>
+  <ul>
+    <li>Color and Composition</li>
+    <li>Computer Programming</li>
+    <li>Statistics</li>
+    <li>History of Art and Design</li>
+    <li>Individualized Fitness </li>
+  </ul>
+</div>
+<div>
+  <style>
+    img{
+      border: 5px dashed;
+      padding: 30px;
+      color: red;
+    }
+    </style>
+    <img src="https://hips.hearstapps.com/hmg-prod/images/the-town-of-varenna-on-lake-como-royalty-free-image-1690925689.jpg" class=img1 alt="Venice" width="150in" height="150in">  
+    <img src="https://media.timeout.com/images/105879414/750/422/image.jpg" class=img2 alt="Florence" width="150in" height="150in">  
+      <img src="https://www.travelandleisure.com/thmb/glpZGYDKxhrn0BhWRrKFJzhexQI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-grand-canal-venice-italy-ENDNGRDVENICE0823-0f6c5bbc4afa44fd9c5a7f49d252ba5e.jpg" class=img3 alt="Rome" width="150in" height="150in"> 
+ </div>
+</html>
