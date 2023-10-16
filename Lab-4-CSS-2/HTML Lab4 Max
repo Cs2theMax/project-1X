@@ -1,0 +1,13 @@
+ <div >
+        <p class="extrapara">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, ea dolor nostrum numquam, tempora, iste illo nisi eveniet sunt et doloribus molestias! Necessitatibus expedita rem laboriosam repudiandae. Aperiam, nostrum quis!
+        </p>
+    </div>   
+
+    <div>
+        <ul>
+            <li ><a class= "hover" href="https://www.google.com/search?q=puppy&sca_esv=573788213&tbm=isch&source=iu&ictx=1&vet=1&fir=TZrcNJBoJ5wnWM%252C6aVR0g41egLNQM%252C%252Fm%252F0d7s3w%253BPpmCvrB3OtU3hM%252C2r6Arj4-hBjhNM%252C_%253BCVN7sw6rePIFuM%252CXCaBKZxWL-VvvM%252C_%253BD7sG8MjCNeT1bM%252ClePbGv7KGaWolM%252C_%253BJkWT9PXGLQBsdM%252C2ssGwWYAAf269M%252C_%253B5bKG7CHxFJlXNM%252C8Jndky6LM8AxQM%252C_%253BfRtnMwNE-K3gwM%252ChbRkxOIiDtMMgM%252C_&usg=AI4_-kTj_7m8JTvbBWYkTk9as2AHloozJA&sa=X&ved=2ahUKEwjQ6JGc4vqBAxW6tYkEHYNvDJEQ_B16BAhcEAE#imgrc=TZrcNJBoJ5wnWM">puppy</li>
+            <li ><a class= "visited" href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F1%2F15%2FCat_August_2010-4.jpg&tbnid=Kl3KKhCsQyey_M&vet=12ahUKEwiDzKzu4vqBAxVnJFkFHeE6AlMQMygBegQIARB2..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCat&docid=HkevFQZ5DYu7oM&w=3640&h=2226&q=cat&ved=2ahUKEwiDzKzu4vqBAxVnJFkFHeE6AlMQMygBegQIARB2">Cat</li>
+            <li ><a class= "active" href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F45%2FEopsaltria_australis_-_Mogo_Campground.jpg%2F640px-Eopsaltria_australis_-_Mogo_Campground.jpg&tbnid=1d0VDVX-lRIBPM&vet=12ahUKEwimxPHg4vqBAxWqMmIAHYEsNbkQMygAegQIARB0..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSongbird&docid=jki5VznFbxxgxM&w=640&h=427&q=bird&ved=2ahUKEwimxPHg4vqBAxWqMmIAHYEsNbkQMygAegQIARB0"">Bird</li>
+        </ul>
+    </div>
