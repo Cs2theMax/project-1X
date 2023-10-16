@@ -1,0 +1,63 @@
+ 
+    .AboutUs:hover {
+        color:lightblue;
+
+    }
+    
+    
+    
+    .Why:hover {
+    color:lightblue;
+    }
+    
+   
+    
+    .How:hover {
+        color:lightblue;
+    }
+
+    .headertable{
+        width: 50%
+        
+    }
+
+    
+
+    .header{
+        font-size: 30px;
+    }
+
+    .AboutUS {
+        
+        font-size: 10px;
+        
+        
+    }
+    
+   
+    
+    .Why {
+       
+        font-size: 15px;
+        margin-left: 25px;
+    }
+    
+  
+    
+    .How {
+        
+        font-size: 15px;
+        margin-left: 25px;
+    }
+
+    #main {
+                display: flex;
+        align-items: center; /* Vertical align the elements to the center */
+        
+      }
+      
+      h1 {
+        margin-right: 35px;
+      }
+      
+      
