@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<head>
+    <title>
+        Smart Planner App
+    </title>
+</head>
+<link rel="stylesheet" href="Smart Planner Style Sheet.css">
+<body>
+
+<div>
+   
+    <div id="main">
+        <h1>Smart Planner</h1> <p class="AboutUs">About Us</p><p class="Why">Why</p><p class="How">How</p>
+      </div>
+
+    
+   
+     
+    
+</div>
+
+<div>
+    <!-- Some sort of imgae? -->
+</div>
+
+<div>
+    
+    <!-- Buttons -->
+</div>
+
+<div>
+    <img src="">
+</div>
+
+
+
+
+</body>
