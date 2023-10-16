@@ -1,0 +1,20 @@
+
+.OMG {
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-family: monospace;
+    font-size: 25px;
+}
+
+.LINK1:hover {
+color: red;
+}
+
+.LINK2:visited {
+color: gray;
+}
+
+.LINK3:active {
+color: orange;
+}
