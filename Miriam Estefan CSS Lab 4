@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(248, 209, 215);
+  }
+  
+  h1 {
+    color: rgb(186, 186, 252);
+    margin-left: 20px;
+  }
+
+.paragraph {
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase; 
+  font-family: monospace; 
+  font-size: 25px;
+}
