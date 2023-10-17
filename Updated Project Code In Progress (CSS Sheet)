@@ -1,0 +1,161 @@
+
+
+    
+    .AboutUs:hover {
+        color:lightblue;
+
+    }
+    
+    
+    
+    .Why:hover {
+    color:lightblue;
+    }
+    
+   
+    
+    .How:hover {
+        color:lightblue;
+    }
+
+    .headertable{
+        width: 50%
+        
+    }
+
+    
+
+    .header{
+        font-size: 30px;
+    }
+
+    .AboutUS {
+        
+        font-size: 10px;
+        
+        
+        
+    }
+    
+   
+    
+    .Why {
+       
+        font-size: 15px;
+        margin-left: 25px;
+    }
+    
+  
+    
+    .How {
+        
+        font-size: 15px;
+        margin-left: 25px;
+    }
+
+    #main {
+                display: flex;
+        align-items: center; /* Vertical align the elements to the center */
+        
+      }
+      
+      h1 {
+        margin-right: 35px;
+      }
+      
+.p1{
+    font-size: 40px;
+    
+    background-color:  rgb(255, 255, 205);
+
+
+}
+#main2 {
+    
+    display: flex;
+align-items: center; /* Vertical align the elements to the center */
+
+}
+.p4{
+    
+    font-size: 50px;
+    
+    background-color:  rgb(195, 255, 228);
+}
+
+
+
+#table, th, td, tr{
+    border: 2px solid black;
+    padding: 10px;
+    margin-left: 15px;
+    background-color: aliceblue;
+}
+
+.emptyth{
+    height: 35px;
+    width:1000px
+    
+    
+}
+
+.image0 {
+    height: 50px;
+    width: 50px;
+    margin-left:10px ;
+    margin-right: 25px;
+}
+
+.image1 {
+    height: 100px;
+    width: 100%;
+}
+
+.image2 {
+    height: 300px;
+    width: 300px;
+    margin-left: 50px ;
+    margin-right: 50px;
+}
+
+.p2{
+    font-size: 30px;
+    
+}
+
+#go {
+    display: flex;
+align-items: center; /* Vertical align the elements to the center */
+margin-left: 40%;
+margin-top: 20px;
+margin-bottom: 20px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 20px;
+
+}
+
+.p3{
+    font-size: 20px;
+   
+    background-color: lightcyan;
+   
+}
+
+.Go {
+    margin-left: 15px;
+    padding: 8px 15px 8px 15px;
+    font-size: 15px;
+    background-color: lightblue;
+    
+    
+}
+
+.Go:hover {
+    color: lightgreen;
+    background-color: lightblue;
+
+}
+
+.body{
+    background-color:  rgb(250, 222, 222);
+}
