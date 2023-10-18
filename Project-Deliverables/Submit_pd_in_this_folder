@@ -1,1 +1,45 @@
+<!DOCTYPE >
+<html>
+
+
+    <title>
+        Smart Planner App
+    </title>
+
+
+<link rel="stylesheet" href="CS Deliverables Style.css">
+
+    <div id="main">
+        <img class="image0" src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/22/cd/0c/22cd0c80-953f-59d2-248d-06724dd75148/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" ><h1 >Smart Planner</h1> 
+    </div>
+
+    <div id="main2">
+       <table class="table"><th class="AboutUs">About Us</th><th class="Why">Why</th><th class="How">How to Use</th></table>
+    </div>
+   
+    <div >
+        
+        <img class="image1" src="https://img.freepik.com/free-vector/naive-calendar-stickers-collection_52683-83332.jpg?size=626&ext=jpg" >
+      </div>
+
+    <div class="p1">
+        <p> Welcome to the Smart Planner App!<p>
+    </div>
+
+
+   <div >
+    <img class="image2" src="https://img.freepik.com/premium-vector/paper-sheet-with-clip-pencil-list-with-checkmarks-planner-template-agenda-schedule_538002-2787.jpg?w=2000" ">
+   </div>
+
+
+ <div id="go">
+        <p3 class="p3">Go to Smart Planner -></p3> <a class="Go">Go</a>
+    </div>
+
+</body>
+</html>
+
+
+
+</body>
 
