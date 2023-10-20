@@ -1,3 +1,11 @@
+.styledp {
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-family: monospace;
+    font-size: 25px;
+}
+
 a.link1:hover{
     color:red;
 }
