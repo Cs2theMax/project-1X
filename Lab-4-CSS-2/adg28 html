@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+        <head>
+            <title>
+                Personal Portoflio
+            </title>
+            <link rel="stylesheet" href="styles.css">
+        </head>
+        <body>
+            </div>
+            <p class="styledp">
+                This is a text paragraph. Hello world!
+            </p>
+            <div>
+                <ul>
+                    <li><a class="link1" href="https://www.buildabear.com/cinnamoroll/031213.html?cgid=stuffed-animals-shop-all">Cinnamon Roll Plush</a></li><br>
+                    <li><a class="link2" href="https://itsugar.com/popularbrands.html">It'Sugar Brand</a></li><br>
+                    <li><a class="link3" href="https://www.snackandbakery.com/articles/100948">Oreo Cafe Opening</a></li><br>
+                </ul>
+            </div>
+        </body>
+</html>
