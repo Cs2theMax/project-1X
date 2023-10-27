@@ -1,0 +1,41 @@
+<div >
+        <table class="table table-bordered table-striped" >
+            
+           
+             <tr>
+                 <th><h4>Education</h4></th>
+                <th><h4>Experience</h4></th>
+                 <th><h4>Skills</h4></th>
+            </tr>
+
+           
+            <tr>
+                <td >Physics</td>
+                <td>Baby-sitting</td>
+                <td>Drawing</td>
+            </tr>
+            <tr>
+                <td>Studio</td>
+                <td>Art</td>
+                <td>Rhino</td>
+            </tr>
+        </table>
+    </div>
+    <div class="dropdown">
+        <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown">
+          Dropdown button
+        </button>
+        <ul class="dropdown-menu">
+             <li><a class="dropdown-item" href="https://th.bing.com/th?id=OSK.HEROkY_RYt4V5JXO8Ef19ETBCVZ1DfTnTo1uZHsxVP1dE2k&w=472&h=280&c=13&rs=2&o=6&oif=webp&pid=SANGAM">Puppy</a></li>
+             <li><a class="dropdown-item" href="https://th.bing.com/th/id/OIP.B9zKdFTMvKs9SVO4mGMFlwHaHa?w=195&h=195&c=7&r=0&o=5&pid=1.7">Kitty</a></li>
+             <li><a class="dropdown-item" href="https://th.bing.com/th/id/OIF.TKoDDz5CSvLmAw21WbxkJw?w=257&h=180&c=7&r=0&o=5&pid=1.7">Bird</a></li>
+        </ul>
+      </div>
+      <div style="margin-top: 50px;">
+
+        <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#demo">Latin Words Collapseable button here! </button>
+     
+    
+        <div id="demo" class="collapse">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore voluptatum enim amet ullam voluptatibus praesentium omnis id commodi, iste possimus dolorum quidem molestiae veniam laboriosam? Iusto nam quos libero et! Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet consectetur adipisicing elit. In suscipit necessitatibus reprehenderit commodi neque culpa fuga itaque cumque error. Omnis, veniam et nihil eius itaque ut molestiae alias ea pariatur!
+     </div>
