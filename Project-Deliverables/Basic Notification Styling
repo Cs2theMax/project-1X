@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="notification system.css">
+    </head>
+    <body>
+        <form class="input">
+            <label for = "event"> TItle of event</label><br>
+            <input type="text" id="event" name="event"><br>
+            <label for = "calender">Select Event Date </label><br>
+            <input type = "date" id="calender" name="calender">
+        </form>
+
+        <div class="alert">
+            <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+            <p id="notif">:</p> 
+        </div>
+        <script>
+            let Notification = "Reminder:"
+            document.getElementById("notif").innerHTML = Notification;
+        </script>
+    </body>
+</html>
