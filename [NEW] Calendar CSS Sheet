@@ -1,0 +1,148 @@
+ul {list-style-type: none;}
+body {font-family: Verdana, sans-serif;}
+
+/* Month header */
+.month {
+  padding: 70px 25px;
+  width: 100%;
+  background: #1abc9c;
+  text-align: center;
+  display: flex;
+
+}
+
+/* Month list */
+.month ul {
+  margin: 0;
+  padding: 0;
+}
+
+.month ul li {
+  color: white;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+/* Previous button inside month header */
+.month .prev {
+  float: left;
+  padding-top: 10px;
+  display: flex;
+  text-align: center;
+}
+
+/* Next button */
+.month .next {
+  float: right;
+  padding-top: 10px;
+  display: flex;
+  text-align: center;
+}
+
+ /* Remove the navbar's default margin-bottom and rounded borders */ 
+ .navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+  .row.content {height: 450px}
+  
+  /* Set gray background color and 100% height */
+  .sidenav {
+    padding-top: 20px;
+    background-color: #f1f1f1;
+    height: 100%;
+    
+  }
+  
+  /* Set black background color, white text and some padding */
+  footer {
+    background-color: #555;
+    color: white;
+    padding: 15px;
+  }
+  
+  
+
+  ul {list-style-type: none;}
+body {font-family: Verdana, sans-serif;}
+
+/* Month header */
+.month {
+padding: 70px 25px;
+width: 100%;
+
+text-align: center;
+}
+
+/* Month list */
+.month ul {
+margin: 0;
+padding: 0;
+}
+
+.month ul li {
+color: black;
+font-size: 30px;
+text-transform: uppercase;
+letter-spacing: 3px;
+}
+
+/* Previous button inside month header */
+.month .prev {
+float: left;
+padding-top: 10px;
+}
+
+/* Next button */
+.month .next {
+float: right;
+padding-top: 10px;
+}
+
+/* Weekdays (Mon-Sun) */
+.weekdays {
+margin: 0;
+padding: 10px 0;
+background-color:maroon;
+}
+
+.weekdays li {
+display: inline-block;
+width: 13.6%;
+color: black;
+
+text-align: center;
+}
+
+/* Days (1-31) */
+.days {
+padding: 10px 0;
+background: white ;
+margin: 0;
+}
+
+.days li {
+list-style-type: none;
+display: inline-block;
+width: 13.6%;
+text-align: center;
+margin-bottom: 5px;
+font-size:12px;
+color: #777;
+}
+
+/* Highlight the "current" day */
+.days li .active {
+padding: 5px;
+background: rgb(161, 145, 115);
+color: white !important
+
+}
+.hover:hover {
+  color: bisque;
+  
+}
