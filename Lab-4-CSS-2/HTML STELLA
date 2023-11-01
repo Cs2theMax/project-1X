@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+   
+  <title>About</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style>
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+    .row.content {height: 450px}
+    
+    /* Set gray background color and 100% height */
+    .sidenav {
+      padding-top: 20px;
+      background-color: #f1f1f1;
+      height: 100%;
+    }
+    
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
+    
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height:auto;} 
+    }
+    
+  </style>
+</head>
+<body>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">Logo</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="#">Calendar</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">How To Use</a></li>
+        <li><a href="#">Why</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+  
+<div class="container-fluid text-center">    
+  <div class="row content">
+    <div class="col-sm-2 sidenav">
+      <p><a href="#">Link</a></p>
+      <p><a href="#">Link</a></p>
+      <p><a href="#">Link</a></p>
+    </div>
+  
+    <div class="col-sm-8 text-left"> 
+        <h1>About the Project</h1>
+        <p>The Smart Planner App came to facilitate the lives of those who struggle with time management. In times when the actual time is our worse enemy, these website created by first-year students at New Jersey Institute of Technology steps up to the plate as your unwavering ally for a stress-free life. By adjusting existing schedules to accommodate additional events or
+            appointments within a set time frame, Smart Polanner will be your best and most loyal friend when it comes to creating those last minute appoitments or remembering the ones sceduled a long time ago. Say goodbye to the chaos of missed deadlines and double-booked meetings. The Smart Planner App is not only an amazing management tool; it is also your dedicated companion on the journey to a more organized and efficient life.
+             </p>
+  </div>
+
+  <link rel="stylesheet" href="anything.css">
+
+    <div class="col-sm-8 text-left"> 
+      <h1>About Us</h1>
+      <p></p>
+      <img class= "project" src= \Users\stell\Downloads\IMG-8613.jpg > <p style="margin-top: 30px;" class="aboutus"> Stella Frias is a first- year international student-athlete from Brazil, Sao Paulo. She moved from her country in order to develop not only her athletic career in fencing, but also her academic dream of studying architecture. Stella graduated from one of the most renowned high schools from her city named Colegio Bandeirantes, and was a member of an exclusive architecture club during her senior year. She says that leaving her family and friends behind was the biggest challenge of her life. However, Stella affirms that college has been an amazing experience and that she’s excited to learn even more during her 5 years at NJIT.
+    </p>
+      <img class= "project" src= https://lh7-us.googleusercontent.com/ZAusstjfjJLmYCj4a7pQaV8_bl6JGBRFgSANShVZfx1B7QEs3Cc-lmqWG4pkJQj0eqFiTCnCLH2wjKWmHgvYyMN45jElpFf8kj9q37uqOWNSC1bgHhHvrJ-Gnv_1koCjd95RRNtpn9JaUhHa-HKbEgk > <p style="margin-top: 30px;" class="aboutus"> Brianna Kailas is a first-year architecture student at New Jersey’s Institute of Technology.  She plans on taking the accelerated route and her goal is to finish in 4 years.  Brianna is from Middletown, New Jersey where she lives with her mom, dad, and her older sister.  Brianna went to school at Middletown High School North. In high school she received many awards such as making varsity from sophomore year for volleyball and softball, being a varsity captain for the volleyball team, making the list for most digs in Monmouth County, getting honor roll, joining RHO Kappa (Social Studies Honor Society), and National Honor Society. As a senior, Brianna took Technical Drawing where she was introduced to the world of architecture and construction.  Some things Brianna hopes to accomplish at NJIT is to get her bachelor degree in Architecture, have a position on the AIAS board, and take advantage of as many internships she gets accepted into. </p>
+      <img class= "project" src= > <p style="margin-top: 30px;" class="aboutus"> Maximiliano Escudero is a future architect in the making. As of now the aspects of Architectural design are what he is leaning towards. Also broadening his understanding of mathematics and science through calculus, physics, and computer science. Maximiliano has always found math to be straightforward and art to be interesting.The colliding of the two subjects, along with guidance from friends and counselors started him down the path of architecture.</p>
+      </div>
+      
+      
+
+     </div>
+
+      
+</div>  
+  
+
+
+</div>
+</div>    
+
+ 
+
+    <div>
+        <footer class="container-fluid text-center">
+        <p>Footer Text</p>
+        </footer>
+    </div>
+
+</body>
+</html>
+
+       
