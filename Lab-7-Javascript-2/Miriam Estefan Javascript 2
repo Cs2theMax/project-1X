@@ -1,0 +1,18 @@
+<body>
+
+    <button id="changeTextBtn"> Click to Change Font </button>
+    <p id="displayText"> Look Here! </p>
+
+    <script>
+        var changeTextBtn = document.getElementById("changeTextBtn");
+        var displayText = document.getElementById("displayText");
+        changeTextBtn.addEventListener("click", function() {
+            changeText();
+        })
+        function changeText() {
+            displayText.textContent = "Hello, JavaScript World!";
+        }
+    </script>    
+</body>
+
+  </script>
