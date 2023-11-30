@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        JavaScript Lab 3
+    </title>
+</head>
+
+<body>
+    <form name="inputForm" >
+        <input type="text" id ="username" placeholder="username" name="username">
+        <input type="text" id ="password" placeholder="password" name="password">
+        <input id="submit" type="submit">
+    </form>
+
+   <script>
+        
+        document.getElementById("submit").addEventListener("click", function(event) {
+            event.preventDefault();
+
+            let username = document.getElementById("username").value;
+        
+            let password = document.getElementById("password").value;
+
+            if (username === '' || password === '') {
+                alert("Username/password must be filled out!");
+            } else {
+                setTimeout(function() {
+                    alert("Submission Successful!");
+                }, 3000);
+            }
+        })
+
+
+    </script>
+<br>
+
+
+</body>
+</html>
