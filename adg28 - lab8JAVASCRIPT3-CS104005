@@ -1,0 +1,28 @@
+<html>
+  <body>
+    <form name="inputForm" >
+      <input type="text" id ="username" name="username"><br>
+      <input type="text" id ="password"  name="password"><br>
+      <input id="submit" type="submit">
+    </form>
+
+    <script>
+      document.getElementById("submit").addEventListener("click", function(event) {
+      event.preventDefault();
+           
+      let username = document.getElementById("username").value;
+           
+      let password = document.getElementById("password").value;
+           
+      if (username === '' || password === '') {
+        alert("Credentials Not Inputted. Please input Username and Password.");
+        } 
+        else {
+          setTimeout(function() {
+            alert("Successful Submission, you may exit out of this alert safely.");
+        }, 3000);
+        }
+      })   
+    </script>
+  </body>
+</html>
