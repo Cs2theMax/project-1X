@@ -1,0 +1,13 @@
+<head>
+    <h1 style="color: white;">How To Schedule Events on Your Planner</h1>
+    <ol style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: white;">
+      <li>To add events to your calendar select the date desired and select the time for the event.</li>
+      <br>
+      <li>After doing so click the submit button and your event will appear on your calendar. </li>
+      <br>
+      <li>You can imput however many events in each day as desired.</li>
+      <br>
+      <li>After imputting two events in one day, you will be given a notification with suggested events to add to your day.</li>
+    </ol> 
+    <script src="how to page styles.css"></script>
+  </head>
